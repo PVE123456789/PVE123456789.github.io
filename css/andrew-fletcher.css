@@ -1,0 +1,79 @@
+body {
+  background-color: rgb(0, 0, 0);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(255, 255, 255);
+}
+
+.element {
+  float: left;
+  background-repeat: no-repeat;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.text {
+  position: relative;
+  float: left;
+  z-index: 2;
+  width: 44.3333333333%;
+  min-height: 542px;
+  margin: 54px 0 0 8.07813%;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  height: 40px;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0);
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(255, 255, 255);
+}
+
+.element-1 {
+  width: 47.25%;
+  height: 78px;
+  margin: 17px 0 0 25.41667%;
+  background-image: url('../images/cooltext286003865236186(2).png');
+  background-size: auto auto;
+  background-position: center top;
+  background-attachment: fixed;
+}
+
+.element-2 {
+  position: relative;
+  clear: both;
+  z-index: 1;
+  width: 42.0833333333%;
+  height: 506px;
+  margin-top: 54px;
+  background-image: url('../images/%D0%AD%D0%BD%D0%B4%D1%80%D1%8E%20%D0%A4%D0%BB%D0%B5%D1%82%D1%87%D0%B5%D1%80.jpg');
+  background-size: contain;
+  background-position: left top;
+}
+
+._button-1 {
+  clear: both;
+  z-index: 4;
+  width: 12.91796875%;
+  margin: 57px 0 0 7.3737%;
+}
+
+._button-2 {
+  z-index: 5;
+  width: 10.1666666666%;
+  margin-top: 57px;
+  font-family: Arial;
+}
+
+._button-3 {
+  clear: both;
+  z-index: 3;
+  width: 12.91796875%;
+  margin: -40px 0 0 29.16276%;
+}

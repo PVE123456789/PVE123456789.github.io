@@ -1,0 +1,83 @@
+body {
+  background-color: rgb(0, 0, 0);
+  font: 400 2.375em/1.38 Arial;
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  float: left;
+}
+
+.element {
+  float: left;
+  background-repeat: no-repeat;
+}
+
+.text {
+  float: left;
+  color: rgb(255, 255, 255);
+}
+
+.container-1 {
+  width: 62.4166666666%;
+  height: 92px;
+  margin: 13px 0 0 22.16667%;
+}
+
+.container-2 {
+  clear: both;
+  width: 52.75%;
+  height: 518px;
+  margin: 37px 0 0 23.9114583333%;
+}
+
+.element-1 {
+  width: 79.9732977303%;
+  height: 73px;
+  margin: 11px 0 0 3.4713%;
+  background-image: url('../images/cooltext285290598840895.png');
+  background-size: 614px auto;
+  background-position: center top;
+  background-attachment: fixed;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-2 {
+  width: 14.4192256341%;
+  height: 92px;
+  margin-left: 2.1341%;
+  background-image: url('../images/5f75e8eea894213d75a7c471116a3378.png');
+  background-size: contain;
+  background-position: center center;
+  background-color: rgb(222, 222, 222);
+}
+
+.text-1 {
+  width: 43.7598736176%;
+  min-height: 69px;
+  margin: 36px 0 0 24.79019%;
+  font-size: 1.132em;
+  font-weight: 700;
+}
+
+.text-2,
+.text-3,
+.text-4,
+.text-5,
+.text-6,
+.text-7 {
+  clear: both;
+  width: 100%;
+  font-style: italic;
+  font-size: 1em;
+  text-decoration: underline;
+}
+
+.text-8 {
+  clear: both;
+  width: 100%;
+  margin-top: 5px;
+  font-style: italic;
+  font-size: 1em;
+  text-decoration: underline;
+}

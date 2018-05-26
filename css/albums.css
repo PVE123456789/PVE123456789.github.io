@@ -1,0 +1,63 @@
+body {
+  background-color: rgb(0, 0, 0);
+  font: 400 2.75em/1.38 Helvetica;
+  color: rgb(255, 255, 255);
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+.element {
+  float: left;
+  width: 45.75%;
+  height: 127px;
+  margin-left: 31.16667%;
+  background: url('../images/cooltext286056814664754.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center top;
+  background-attachment: fixed;
+}
+
+.text {
+  float: left;
+  clear: both;
+  width: 50.2499999999%;
+  min-height: 598px;
+  margin-top: 26px;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  height: 40px;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0);
+  font-style: italic;
+  font-size: 0.364em;
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(255, 255, 255);
+}
+
+._button-1 {
+  clear: both;
+  z-index: 2;
+  width: 12.91796875%;
+}
+
+._button-2 {
+  z-index: 4;
+  width: 10.1666666666%;
+  font-family: Arial;
+}
+
+._button-3 {
+  z-index: 3;
+  width: 12.91796875%;
+  margin-left: 0.53776%;
+}

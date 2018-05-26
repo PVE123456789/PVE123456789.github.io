@@ -1,0 +1,91 @@
+body {
+  background-color: rgb(0, 0, 0);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(255, 255, 255);
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+.element {
+  float: left;
+  width: 46.5833333333%;
+  height: 53px;
+  margin: 12px 0 0 26.75%;
+  background-image: url('../images/cooltext286009808638339.png');
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center top;
+  background-attachment: fixed;
+}
+
+.text {
+  float: left;
+  clear: both;
+  width: 55.6653645833%;
+  min-height: 507px;
+  margin: 6px 0 0 9.41667%;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  height: 40px;
+  margin-top: 72px;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0);
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(255, 255, 255);
+}
+
+._button-1 {
+  clear: both;
+  z-index: 2;
+  width: 12.91796875%;
+  margin-left: 7.53646%;
+}
+
+._button-2 {
+  z-index: 3;
+  width: 10.1666666666%;
+  font-family: Arial;
+}
+
+._button-3 {
+  z-index: 4;
+  width: 12.91796875%;
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: normal;
+  font-size: 1.625em;
+  font-weight: 700;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
